@@ -1,1 +1,11 @@
-/* styles go here */
+input {
+  margin: 5px 0;
+}
+
+form {
+  display: block;
+}
+
+#sname {
+  margin-top: auto;
+}
