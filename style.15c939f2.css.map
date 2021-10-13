@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,MACE,YACF,CAEA,KACE,aACF,CAEA,OACE,eACF","file":"style.15c939f2.css","sourceRoot":"..\\src","sourcesContent":["input {\n  margin: 5px 0;\n}\n\nform {\n  display: block;\n}\n\n#sname {\n  margin-top: auto;\n}\n"]}
