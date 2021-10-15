@@ -1,5 +1,5 @@
 input {
-  margin: 5px 0;
+  margin: 10px 0;
 }
 
 form {
@@ -7,5 +7,50 @@ form {
 }
 
 #sname {
-  margin-top: auto;
+  margin: 0;
+}
+
+#years {
+  margin: 0;
+}
+
+#agreement {
+  margin: 3px 4px;
+}
+
+.personal {
+  margin: 8px 2px;
+}
+
+.field {
+  margin: 20px 2px;
+  padding-bottom: 0;
+}
+
+#mail {
+  margin: auto;
+}
+
+#cat_n {
+  margin: 3px 7px 3px 5px;
+}
+
+#cat_y {
+  margin: 3px 7px 3px 5px;
+}
+
+#times {
+  margin: 0;
+}
+
+#auto {
+  margin: 10px 10px 0 0;
+}
+
+#work {
+  margin: 12px 2px 14px;
+}
+
+#commend {
+  margin: 10px 0;
 }
