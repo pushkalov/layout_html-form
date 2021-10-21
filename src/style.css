@@ -1,50 +1,22 @@
 input {
-  margin: 10px 0;
-}
-
-form {
-  display: block;
-}
-
-#sname {
-  margin: 0;
-}
-
-#years {
-  margin: 0;
+  margin: 0 0 10px;
 }
 
 #agreement {
-  margin: 3px 4px;
-}
-
-.personal {
-  margin: 8px 2px;
+  margin: 3px 4px 14px;
 }
 
 .field {
-  margin: 20px 2px;
+  margin: 8px 2px 20px;
   padding-bottom: 0;
 }
 
-#mail {
-  margin: auto;
-}
-
 #cat_n {
-  margin: 3px 7px 3px 5px;
+  margin: 3px 7px 14px 5px;
 }
 
 #cat_y {
-  margin: 3px 7px 3px 5px;
-}
-
-#times {
-  margin: 0;
-}
-
-#auto {
-  margin: 10px 10px 0 0;
+  margin: 3px 7px 14px 5px;
 }
 
 #work {
